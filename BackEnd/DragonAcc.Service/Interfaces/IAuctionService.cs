@@ -12,4 +12,5 @@ namespace DragonAcc.Service.Interfaces
         public Task<ApiResult> UpdateCurrentPrice(UpdateCurrentPriceModel model);
 // sasdadadasd
     }
+    //mlsadfasdjf
 }
